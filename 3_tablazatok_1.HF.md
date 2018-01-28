@@ -2,11 +2,7 @@
 
 Keszits 4 különböző weboldalt. A CSS olyan legyen mint a videon, azaz csak ennyi:
 
-<style>
-		table, tr, th, td{
-			border: 1px solid;
-		}
-	</style>
+<style>table, tr, th, td{border: 1px solid;}</style>
 
 1. feladat: FM15 Klánliga: http://footballmanager.hu/wp-content/uploads/2015/01/Tabella-10.1-fordulo.png
 2. feladat: Excel: https://support.content.office.net/hu-hu/media/3dd2b79b-9160-403d-9967-af893d17b580.png
